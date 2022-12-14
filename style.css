@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(67, 108, 136);
+    color: rgb(0, 0, 0);
+    font-family: 'Merriweather', serif;
+    font-family: 'Rubik 80s Fade', cursive;
+}
+.navbar > ul {
+    list-style-type: none;
+    margin: 0;
+}
+img {
+    max-width: 50%;
+    height: auto;}
